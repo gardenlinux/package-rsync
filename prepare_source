@@ -3,3 +3,4 @@ version_orig=3.3.0
 version="$version_orig+ds1-4"
 git_src -b "debian/$version" "https://salsa.debian.org/debian/rsync.git"
 
+version_suffix=gl0
